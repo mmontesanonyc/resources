@@ -1,6 +1,12 @@
 # resources
 Here's stuff I often find useful.
 
+## Writing
+- [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
+- [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
+- [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing.
+- [Hemingway App](https://hemingwayapp.com/). Paste in your text and it highlights areas you need to work on.
+
 ## General Web Stuff
 - [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
 - [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
