@@ -32,3 +32,9 @@ Here's stuff I often find useful.
 - [Coolers.co](https://coolors.co/). Color pallet generator.
 - [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
 - [Color-Hex](www.color-hex.com). Useful reference.
+
+## Map Stuff
+- [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
+- [Geojson.io](http://geojson.io/) lets you draw areas and export them as geojson.
+- [json formatter](https://jsonformatter.org/) does what it says on the tin.
+- [NYC Geography Files](https://github.com/nycehs/NYC_geography).
