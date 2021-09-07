@@ -1,2 +1,28 @@
 # resources
-Stuff I've found useful
+Here's stuff I often find useful.
+
+## General Web Stuff
+- [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
+- [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
+- [JavaScript 30](https://javascript30.com/) is a well-paced set of lessons that has helped me expand my JavaScript vocabulary.
+- [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals/
+- [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
+
+## Visualization
+- [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf). A classic.
+- [Datawrapper](www.datawrapper.de) makes making interactive, well-designed visualizations fast and easy. [Their blog](https://blog.datawrapper.de/) details new features and techniques, and [their documentation](https://academy.datawrapper.de/) is thorough.
+- [Vega and Vega-Lite](https://vega.github.io/) allow highly customizeable visualizations through json spec. [Their online editor](https://vega.github.io/editor/) and examples are a good place to start. [Helpful tutorial](http://vda-lab.github.io/2019/12/vegalite).
+- [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero). Arquero is a JS library for importing data into the browser as tables and manipulating it. Helpful for client-side data processing and manipulation, to prep data for visualization. [More](https://github.com/uwdata/arquero).
+
+## Accessibility
+- [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+- [Accessibility for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf). Part of MN.IT's fantastic [suite of documentation on accessibility and web mapping](https://mn.gov/mnit/about-mnit/accessibility/maps/web.jsp). 
+- [A11y Project: Compliance Checklist](https://www.a11yproject.com/checklist/). Great guide.
+- [Tota11y for Chrome](https://chrome.google.com/webstore/detail/tota11y-for-chrome/nkghaekndgmonifcpfgjmpfjlhnmflhp?hl=en). Useful plugin. 
+
+## Design
+- [Datawrapper: how to pick more beautiful colors for your visualization](https://blog.datawrapper.de/beautifulcolors/). Accessible theory, practical guidance, and good resources.
+- [Palleton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF). Interactive pallet tool
+- [Coolers.co](https://coolors.co/). Color pallet generator.
+- [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
+- [Color-Hex](www.color-hex.com). Useful reference.
