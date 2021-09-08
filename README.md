@@ -14,6 +14,10 @@ Here's stuff I often find useful.
 - [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals/
 - [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
 
+## Git and Github
+- [Github best practices](https://github.com/tmcw/github-best-practices). I appreciate opinionated guides.
+- [Github Flow](https://githubflow.github.io/). A flexible, simple workflow, slightly simplified compared to [git-flow](https://nvie.com/posts/a-successful-git-branching-model/). 
+
 ## Visualization
 - [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf). A classic.
 - [Datawrapper](www.datawrapper.de) makes making interactive, well-designed visualizations fast and easy. [Their blog](https://blog.datawrapper.de/) details new features and techniques, and [their documentation](https://academy.datawrapper.de/) is thorough.
