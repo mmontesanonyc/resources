@@ -1,4 +1,4 @@
-# resources
+# Helpful Resources
 Here's stuff I often find useful.
 
 ## Writing
