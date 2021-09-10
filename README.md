@@ -2,7 +2,7 @@
 Here's stuff I often find useful.
 
 ## Writing
-- [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
+- [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, ```Break any of these rules sooner than say anything outright barbarous``` is a helpful reminder that consistency should be a tool not a prison. 
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
 - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing. Notably on this site, [Scientists need plain language](https://www.plainlanguage.gov/resources/articles/scientists-need-plain-language/), a great overview of why plain language benefits communication products among the highly-educated. 
 
