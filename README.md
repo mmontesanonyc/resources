@@ -1,22 +1,11 @@
 # Helpful Resources
-Here's stuff I often find useful.
+Here's a list of things I often find useful. Things often get lost in bookmarks, but it feels easier to organize them here. Plus, this makes everything easier to share. 
 
 ## Writing
 - [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, ```Break any of these rules sooner than say anything outright barbarous``` is a helpful reminder that consistency should be a tool not a prison. 
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
 - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing. Notably on this site, [Scientists need plain language](https://www.plainlanguage.gov/resources/articles/scientists-need-plain-language/), a great overview of why plain language benefits communication products among the highly-educated. And, [Use Simple Phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/) is a great list of problem words.
 - [America's Health Literacy](https://www.ahrq.gov/sites/default/files/wysiwyg/health-literacy/dhhs-2008-issue-brief.pdf). Research and data from HHS.
-
-## General Web Stuff
-- [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
-- [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
-- [JavaScript 30](https://javascript30.com/) is a well-paced set of lessons that has helped me expand my JavaScript vocabulary.
-- [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals/
-- [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
-
-## Git and Github
-- [Github best practices](https://github.com/tmcw/github-best-practices). I appreciate opinionated guides.
-- [Github Flow](https://githubflow.github.io/). A flexible, simple workflow, slightly simplified compared to [git-flow](https://nvie.com/posts/a-successful-git-branching-model/). 
 
 ## Visualization
 - [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf). A classic.
@@ -47,3 +36,14 @@ Here's stuff I often find useful.
 - [Geojson.io](http://geojson.io/) lets you draw areas and export them as geojson.
 - [json formatter](https://jsonformatter.org/) does what it says on the tin.
 - [NYC Geography Files](https://github.com/nycehs/NYC_geography).
+
+## General Web Stuff
+- [JavaScript 30](https://javascript30.com/) is a well-paced set of lessons that has helped me expand my JavaScript vocabulary.
+- [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals.
+- [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
+- [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
+- [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
+
+## Git and Github
+- [Github best practices](https://github.com/tmcw/github-best-practices). I appreciate opinionated guides, even if I don't share the opinion.
+- [Github Flow](https://githubflow.github.io/). A flexible, simple workflow, slightly simplified compared to [git-flow](https://nvie.com/posts/a-successful-git-branching-model/).
