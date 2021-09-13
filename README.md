@@ -22,6 +22,7 @@ Here's stuff I often find useful.
 - [Datawrapper](www.datawrapper.de) makes making interactive, well-designed visualizations fast and easy. [Their blog](https://blog.datawrapper.de/) details new features and techniques, and [their documentation](https://academy.datawrapper.de/) is thorough.
 - [Vega and Vega-Lite](https://vega.github.io/) allow highly customizeable visualizations through json spec. [Their online editor](https://vega.github.io/editor/) and examples are a good place to start. [Helpful tutorial](http://vda-lab.github.io/2019/12/vegalite).
 - [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero). Arquero is a JS library for importing data into the browser as tables and manipulating it. Helpful for client-side data processing and manipulation, to prep data for visualization. [More](https://github.com/uwdata/arquero).
+- [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causaility, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
 - Perspectives:
   - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
   - [Tweets on data vis's role in empire to military industrial comples](https://twitter.com/infowetrust/status/1436106191206182926)
@@ -38,6 +39,7 @@ Here's stuff I often find useful.
 - [Coolers.co](https://coolors.co/). Color pallet generator.
 - [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
 - [Color-Hex](www.color-hex.com). Useful reference.
+- Gestalt Principles: there are lots and lots of resources around the internet on these. None are as perfect as I wish they were, so [here's the Wikipedia article](https://en.wikipedia.org/wiki/Gestalt_psychology).
 
 ## Map Stuff
 - [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
