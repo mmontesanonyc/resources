@@ -17,11 +17,11 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
   - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
   - [Tweets on data vis's role in empire to military industrial comples](https://twitter.com/infowetrust/status/1436106191206182926)
 
-## Accessibility
-- [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
-- [Accessibility for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf). Part of MN.IT's fantastic [suite of documentation on accessibility and web mapping](https://mn.gov/mnit/about-mnit/accessibility/maps/web.jsp). 
-- [A11y Project: Compliance Checklist](https://www.a11yproject.com/checklist/). Great guide.
-- [Tota11y for Chrome](https://chrome.google.com/webstore/detail/tota11y-for-chrome/nkghaekndgmonifcpfgjmpfjlhnmflhp?hl=en). Useful plugin. 
+## Map Stuff
+- [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
+- [Geojson.io](http://geojson.io/) lets you draw areas and export them as geojson.
+- [json formatter](https://jsonformatter.org/) does what it says on the tin.
+- [NYC Geography Files](https://github.com/nycehs/NYC_geography).
 
 ## Design
 - [Datawrapper: how to pick more beautiful colors for your visualization](https://blog.datawrapper.de/beautifulcolors/). Accessible theory, practical guidance, and good resources.
@@ -31,19 +31,23 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
 - [Color-Hex](www.color-hex.com). Useful reference.
 - Gestalt Principles: there are lots and lots of resources around the internet on these. None are as perfect as I wish they were, so [here's the Wikipedia article](https://en.wikipedia.org/wiki/Gestalt_psychology).
 
-## Map Stuff
-- [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
-- [Geojson.io](http://geojson.io/) lets you draw areas and export them as geojson.
-- [json formatter](https://jsonformatter.org/) does what it says on the tin.
-- [NYC Geography Files](https://github.com/nycehs/NYC_geography).
+## Accessibility
+- [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+- [Accessibility for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf). Part of MN.IT's fantastic [suite of documentation on accessibility and web mapping](https://mn.gov/mnit/about-mnit/accessibility/maps/web.jsp). 
+- [A11y Project: Compliance Checklist](https://www.a11yproject.com/checklist/). Great guide.
+- [Tota11y for Chrome](https://chrome.google.com/webstore/detail/tota11y-for-chrome/nkghaekndgmonifcpfgjmpfjlhnmflhp?hl=en). Useful plugin. 
 
-## General Web Stuff
+## Git and Github
+- [Github best practices](https://github.com/tmcw/github-best-practices). I appreciate opinionated guides, even if I don't share the opinion.
+- [Github Flow](https://githubflow.github.io/). A flexible, simple workflow, slightly simplified compared to [git-flow](https://nvie.com/posts/a-successful-git-branching-model/).
+
+## Work practice and culture
+- [15 rules for communicating at Github](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/). While I don't work in a technology-exclusive area and certainly don't follow all of these practices, I like a close, critical look at what tools you use, and when and why you use them.
+
+## Web Stuff
 - [JavaScript 30](https://javascript30.com/) is a well-paced set of lessons that has helped me expand my JavaScript vocabulary.
 - [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals.
 - [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
 - [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
 - [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
 
-## Git and Github
-- [Github best practices](https://github.com/tmcw/github-best-practices). I appreciate opinionated guides, even if I don't share the opinion.
-- [Github Flow](https://githubflow.github.io/). A flexible, simple workflow, slightly simplified compared to [git-flow](https://nvie.com/posts/a-successful-git-branching-model/).
