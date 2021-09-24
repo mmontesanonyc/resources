@@ -19,7 +19,7 @@ There are lots of visualization guidelines out there. I find the [Evergreen Visu
 - [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causality, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
 - Perspectives:
   - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
-  - [Tweets on data vis's role in empire to military industrial comples](https://twitter.com/infowetrust/status/1436106191206182926)
+  - [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
 
 ## Map Stuff
 - [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
