@@ -35,6 +35,10 @@ There are lots of visualization guidelines out there. I find the [Evergreen Visu
 - [Color-Hex](www.color-hex.com). Useful reference.
 - Gestalt Principles: there are lots and lots of resources around the internet on these. None are as perfect as I wish they were, so [here's the Wikipedia article](https://en.wikipedia.org/wiki/Gestalt_psychology).
 
+## User research, usability, and related stuff
+- [Civic Service Design Tools and Tactics](https://civicservicedesign.com/). A nice guide for bringing service design into government work.
+- [Usability.gov](www.usability.gov). Lots of nuts-and-bolts research and guidance for usability work.
+
 ## Accessibility
 - [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 - [Accessibility for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf). Part of MN.IT's fantastic [suite of documentation on accessibility and web mapping](https://mn.gov/mnit/about-mnit/accessibility/maps/web.jsp). 
