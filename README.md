@@ -13,7 +13,9 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
 - [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero). Arquero is a JS library for importing data into the browser as tables and manipulating it. Helpful for client-side data processing and manipulation, to prep data for visualization. [More](https://github.com/uwdata/arquero).
 
 ## Visualization Resources
-There are lots of visualization guidelines out there. I find the [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf) to be the most useful. A few more helpful resources:
+There are lots of visualization guidelines out there. I find the [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf) to be the most useful. [I made an interactive version, here](https://mmontesanonyc.github.io/interactive-evergreen-checklist/).
+
+A few more helpful resources:
 - [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. 
 - [How to Iterate on a CDC Health Advisory Graphic](https://nightingaledvs.com/how-to-iterate-on-a-cdc-health-advisory-graphic/). A strong before-and-after that brings in familiar concepts. This doesn't come from a perspective of specifically communicating health data, but the original map and styles are familiar in public health. 
 - [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causality, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
