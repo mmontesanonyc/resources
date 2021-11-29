@@ -14,14 +14,17 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
 
 ## Visualization Resources
 There are lots of visualization guidelines out there. I find the [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf) to be the most useful. [I made an interactive version, here](https://mmontesanonyc.github.io/interactive-evergreen-checklist/).
-
-A few more helpful resources:
-- [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. [Here's my one-page app interactive version](https://mmontesanonyc.github.io/interactive-CDC-CCI/).
-- [How to Iterate on a CDC Health Advisory Graphic](https://nightingaledvs.com/how-to-iterate-on-a-cdc-health-advisory-graphic/). A strong before-and-after that brings in familiar concepts. This doesn't come from a perspective of specifically communicating health data, but the original map and styles are familiar in public health. 
+Additionally:
+- [VisHealth](http://www.vizhealth.org/): "a scientifically-vetted style guide for communicating health data."
 - [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causality, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
 - Perspectives:
   - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
   - [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
+
+## Health Communications
+- [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. [Here's my one-page app interactive version](https://mmontesanonyc.github.io/interactive-CDC-CCI/).
+- - [How to Iterate on a CDC Health Advisory Graphic](https://nightingaledvs.com/how-to-iterate-on-a-cdc-health-advisory-graphic/). A strong before-and-after that brings in familiar concepts. This doesn't come from a perspective of specifically communicating health data, but the original map and styles are familiar in public health. 
+- [Collaborative on Media and Messaging for Health and Social Policy](https://commhsp.org/resource-library/): a well-curated list of interdisciplinary academic research on health comms.
 
 ## Map Stuff
 - [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
