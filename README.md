@@ -15,6 +15,8 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
 ## Visualization Resources
 There are lots of visualization guidelines out there. I find the [Evergreen Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2020/12/EvergreenDataVizChecklist.pdf) to be the most useful. [I made an interactive version, here](https://mmontesanonyc.github.io/interactive-evergreen-checklist/).
 Additionally:
+- The Science of Visual Data Communication: What Works
+[](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter): a lengthy and powerful paper touching many aspects of evidence-based, effective data viz design.
 - [VisHealth](http://www.vizhealth.org/): "a scientifically-vetted style guide for communicating health data."
 - [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causality, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
 - Perspectives:
