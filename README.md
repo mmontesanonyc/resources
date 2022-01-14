@@ -21,6 +21,9 @@ Additionally:
 - Perspectives:
   - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
   - [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
+  - [Where Is the Rush to Visualize the Public Health Crisis of Racism?
+](https://medium.com/nightingale/data-visualization-racism-a4521a1864d1)
+  - [How not to visualize like a racist](https://idatassist.com/how-not-to-visualize-like-a-racist/)
 
 ## Health Communications
 - [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. [Here's my one-page app interactive version](https://mmontesanonyc.github.io/interactive-CDC-CCI/).
