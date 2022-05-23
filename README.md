@@ -1,5 +1,5 @@
 # Helpful Resources
-Here's a list of things I often find useful. Things often get lost in bookmarks, but it feels easier to organize them here. Plus, this makes everything easier to share. 
+In my work in *data communication*, I find the following resources helpful. Feel free to share widely or suggest additions based on what I have here. 
 
 ## Writing
 - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing. Notably on this site, [Scientists need plain language](https://www.plainlanguage.gov/resources/articles/scientists-need-plain-language/), a great overview of why plain language benefits communication products among the highly-educated. And, [Use Simple Phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/) is a great list of problem words.
@@ -8,6 +8,7 @@ Here's a list of things I often find useful. Things often get lost in bookmarks,
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
 
 ## Visualization Tools
+There are a lot of visualization platforms but these are the ones I use most often. 
 - [Datawrapper](www.datawrapper.de) makes making interactive, well-designed visualizations fast and easy. [Their blog](https://blog.datawrapper.de/) details new features and techniques, and [their documentation](https://academy.datawrapper.de/) is thorough.
 - [Vega and Vega-Lite](https://vega.github.io/) allow highly customizeable visualizations through json spec. [Their online editor](https://vega.github.io/editor/) and examples are a good place to start. [Helpful tutorial](http://vda-lab.github.io/2019/12/vegalite).
 - [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero). Arquero is a JS library for importing data into the browser as tables and manipulating it. Helpful for client-side data processing and manipulation, to prep data for visualization. [More](https://github.com/uwdata/arquero).
