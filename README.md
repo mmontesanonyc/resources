@@ -18,12 +18,14 @@ Additionally:
 - [The Science of Visual Data Communication: What Works](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter): a lengthy and powerful paper touching many aspects of evidence-based, effective data viz design.
 - [VisHealth](http://www.vizhealth.org/): "a scientifically-vetted style guide for communicating health data."
 - [Tufte's 6 principles](https://sites.google.com/site/tufteondesign/home/six-fundamental-principles-of-design) remain useful: show comparisons, show causality, use multivariate data, integrate evidence or other media, establish credibility, and focus on content.
-- Perspectives:
-  - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
-  - [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
-  - [Where Is the Rush to Visualize the Public Health Crisis of Racism?
+
+## Critical Perspectives
+- [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
+- [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
+- [Where Is the Rush to Visualize the Public Health Crisis of Racism?
 ](https://medium.com/nightingale/data-visualization-racism-a4521a1864d1)
-  - [How not to visualize like a racist](https://idatassist.com/how-not-to-visualize-like-a-racist/)
+- [How not to visualize like a racist](https://idatassist.com/how-not-to-visualize-like-a-racist/)
+- [How do you visualize inequality without promoting it?](https://3iap.com/dispersion-disparity-equity-centered-data-visualization-research-project-Wi-58RCVQNSz6ypjoIoqOQ/). Interesting research on how visualization modes work with regard to racism and stereotyping.
 
 ## Health Communications
 - [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. [Here's my one-page app interactive version](https://mmontesanonyc.github.io/interactive-CDC-CCI/).
@@ -61,9 +63,10 @@ Additionally:
 ## Work practice and culture
 - [15 rules for communicating at Github](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/). While I don't work in a technology-exclusive area and certainly don't follow all of these practices, I like a close, critical look at what tools you use, and when and why you use them.
 
-## Web Stuff
+## Programming and Web Development
 - [JavaScript 30](https://javascript30.com/) is a well-paced set of lessons that has helped me expand my JavaScript vocabulary.
 - [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript). Great for learning the fundamentals.
 - [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
 - [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
 - [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/#toc). I haven't dug deeply into this but from scanning it, the fact that it's written for the 'lay programmer' is appealing. 
