@@ -6,6 +6,7 @@ In my work in *data communication*, I find the following resources helpful. Feel
 - [America's Health Literacy](https://www.ahrq.gov/sites/default/files/wysiwyg/health-literacy/dhhs-2008-issue-brief.pdf). Research and data from HHS.
 - [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, ```Break any of these rules sooner than say anything outright barbarous``` is a helpful reminder that consistency should be a tool not a prison. 
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
+- [Evelina Judeikyte's The Plot newsletter](https://plotting.substack.com/) is one of the better sets of writing about data storytelling that I've found.
 
 ## Visualization Tools
 There are a lot of visualization platforms but these are the ones I use most often. 
