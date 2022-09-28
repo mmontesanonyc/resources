@@ -1,4 +1,4 @@
-# Helpful Resources
+# Data Visualization & Communication Resources
 In my work in *data communication*, I find the following resources helpful. Feel free to share widely or suggest additions based on what I have here. 
 
 ## Writing
