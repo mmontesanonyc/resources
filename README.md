@@ -47,6 +47,7 @@ Additionally:
 - [Coolers.co](https://coolors.co/). Color pallet generator.
 - [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
 - [Color-Hex](www.color-hex.com). Useful reference.
+- [Wireframe.cc](https://wireframe.cc/). Easy, in-browser wireframing tool. 
 - Gestalt Principles: there are lots and lots of resources around the internet on these. None are as perfect as I wish they were, so [here's the Wikipedia article](https://en.wikipedia.org/wiki/Gestalt_psychology).
 
 ## User research, usability, and related stuff
