@@ -23,6 +23,7 @@ Additionally:
 - [What to consider when using text in data visualizations](https://blog.datawrapper.de/text-in-data-visualizations) from Datawrapper's blog. An excellent run-down of decisions around text (microcopy) in visualizations. 
 
 ## Critical Perspectives
+- [Why Government Websites Often Struggle To Meet People's Needs](https://codeforamerica.org/news/why-government-websites-often-struggle-to-meet-peoples-needs/). A great run-down of common technical and cultural challenges within government agencies. 
 - [Decolonizing Data Vis](https://stephanieevergreen.com/decolonizing-data-viz/)
 - [Tweets on data vis's role in empire to military industrial complex](https://twitter.com/infowetrust/status/1436106191206182926)
 - [Where Is the Rush to Visualize the Public Health Crisis of Racism?
