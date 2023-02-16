@@ -1,6 +1,8 @@
 # Data Visualization & Communication Resources
 In my work in *data communication*, I find the following resources helpful. Feel free to share widely or suggest additions based on what I have. Suggestions are welcome! 
 
+Demonstrating adding new text. 
+
 ## Writing
 - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing. Notably on this site, [Scientists need plain language](https://www.plainlanguage.gov/resources/articles/scientists-need-plain-language/), a great overview of why plain language benefits communication products among the highly-educated. And, [Use Simple Phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/) is a great list of problem words.
 - [America's Health Literacy](https://www.ahrq.gov/sites/default/files/wysiwyg/health-literacy/dhhs-2008-issue-brief.pdf). Research and data from HHS.
