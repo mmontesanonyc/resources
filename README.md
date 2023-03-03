@@ -37,6 +37,7 @@ Additionally:
 - [Collaborative on Media and Messaging for Health and Social Policy](https://commhsp.org/resource-library/): a well-curated list of interdisciplinary academic research on health comms.
 
 ## Map Stuff
+- [Felt](https://felt.com/) is a really cool map service. Sort of like Datawrapper but for maps - with built-in base layers, really easy interface.
 - [Mapshaper](https://mapshaper.org/) lets you edit and convert shapefile, geojson, topojson, and other geo files.
 - [Geojson.io](http://geojson.io/) lets you draw areas and export them as geojson.
 - [json formatter](https://jsonformatter.org/) does what it says on the tin.
