@@ -7,6 +7,7 @@ In my work in *data communication*, I find the following resources helpful. Feel
 - [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, ```Break any of these rules sooner than say anything outright barbarous``` is a helpful reminder that consistency should be a tool not a prison. 
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
 - [Evelina Judeikyte's The Plot newsletter](https://plotting.substack.com/) is one of the better sets of writing about data storytelling that I've found.
+- [USCIS's plain language videos](https://www.uscis.gov/about-us/uscis-plain-language) are great. Funny, brief, and informative videos on specific plain language techniques. Check out [Put your main message first](https://www.youtube.com/watch?v=G-SNW6ye9rU) and [Active voice](https://www.youtube.com/watch?v=Fs78WBOgxs0). 
 
 ## Visualization Tools
 There are a lot of visualization platforms but these are the ones I use most often. 
