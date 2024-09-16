@@ -59,6 +59,7 @@ Additionally:
 - [Usability.gov](www.usability.gov). Lots of nuts-and-bolts research and guidance for usability work.
 
 ## Accessibility
+- [A lightweight approach to data viz accessibility](https://mmontesanonyc.github.io/data-viz-accessibility/) - a microsite with a simple approach for incorporating accessible tables. 
 - [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 - [Accessibility for Interactive Web Maps](https://mn.gov/mnit/assets/web-map-accessibility-guide_tcm38-403564.pdf). Part of MN.IT's fantastic [suite of documentation on accessibility and web mapping](https://mn.gov/mnit/about-mnit/accessibility/maps/web.jsp). 
 - [A11y Project: Compliance Checklist](https://www.a11yproject.com/checklist/). Great guide.
