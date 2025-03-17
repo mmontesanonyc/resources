@@ -59,6 +59,7 @@ Additionally:
 - [Usability.gov](www.usability.gov). Lots of nuts-and-bolts research and guidance for usability work.
 
 ## Accessibility
+- Tons of resources available at [DatavizA11y](https://github.com/dataviza11y/resources)
 - [A lightweight approach to data viz accessibility](https://mmontesanonyc.github.io/data-viz-accessibility/) - a microsite with a simple approach for incorporating accessible tables parallel to inaccessible visualizations. 
 - [Chartability](https://chartability.github.io/POUR-CAF/#thetests) - heuristics for accessible data visualization. 
 - [Smashing Magazine: A Complete Guide to Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
