@@ -48,6 +48,7 @@ Additionally:
 - [Datawrapper: how to pick more beautiful colors for your visualization](https://blog.datawrapper.de/beautifulcolors/). Accessible theory, practical guidance, and good resources.
 - [Palleton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF). Interactive pallet tool
 - [Coolers.co](https://coolors.co/). Color pallet generator.
+- [Viridis Pallette Generator](https://waldyrious.net/viridis-palette-generator/) - Best color scheme :) 
 - [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
 - [Color-Hex](www.color-hex.com). Useful reference.
 - [Adobe Color Palette generator](https://color.adobe.com/create/color-wheel). 
