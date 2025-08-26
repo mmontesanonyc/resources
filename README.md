@@ -34,7 +34,7 @@ Additionally:
 
 ## Health Communications
 - [CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html). This is information design principles applied to designing health communication material. I often think about components of this apply to data visualization, too. [Here's my one-page app interactive version](https://mmontesanonyc.github.io/interactive-CDC-CCI/).
-- - [How to Iterate on a CDC Health Advisory Graphic](https://nightingaledvs.com/how-to-iterate-on-a-cdc-health-advisory-graphic/). A strong before-and-after that brings in familiar concepts. This doesn't come from a perspective of specifically communicating health data, but the original map and styles are familiar in public health. 
+- [How to Iterate on a CDC Health Advisory Graphic](https://nightingaledvs.com/how-to-iterate-on-a-cdc-health-advisory-graphic/). A strong before-and-after that brings in familiar concepts. This doesn't come from a perspective of specifically communicating health data, but the original map and styles are familiar in public health. 
 - [Collaborative on Media and Messaging for Health and Social Policy](https://commhsp.org/resource-library/): a well-curated list of interdisciplinary academic research on health comms.
 
 ## Map Stuff
@@ -81,4 +81,11 @@ Additionally:
 - [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw). I've used his Youtube tutorials for JS, Hugo, Jekyll, and more. They're well-paced and definitely get you moving.
 - [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
 - [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
-- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/#toc). I haven't dug deeply into this but from scanning it, the fact that it's written for the 'lay programmer' is appealing. 
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/#toc). I haven't dug deeply into this but from scanning it, the fact that it's written for the 'lay programmer' is appealing.
+
+## Published papers
+- [Communicating public health data clearly: lessons from COVID-19](https://www.tandfonline.com/eprint/PUDEIEK8SMY9K5YNGI4U/full?target=10.1080/17538068.2025.2483599) (2025) - [PDF](https://www.matthewmontesano.com/pubs/Communicating%20public%20health%20data%20clearly%20%20lessons%20from%20COVID-19.pdf)
+- [Evaluating a user-centered redesign of the NYC Environment and Health Data Portal](https://journals.lww.com/jphmp/abstract/9900/evaluating_a_user_centered_redesign_of_the_nyc.441.aspx) (2025) - [PDF](https://www.matthewmontesano.com/pubs/JPHMP%20-%20Evaluating%20a%20user-centered%20redesign.pdf)
+- [Using Civic Service Design to redevelop a data communication website with a health literacy lens](https://journals.lww.com/jphmp/fulltext/2024/09000/using_civic_service_design_methods_to_redevelop_a.23.aspx?context=latestarticles&casa_token=2LUbmGfRkUAAAAAA:lqUE4FO4oViViEVGH4u77pgzXcFypEzlSoz4fIVZX4sm73U6Bc4lW6gtlFdbs6THPrhGTkvefiFOhb_9V45HBz1F) (2024) - [PDF](https://www.matthewmontesano.com/pubs/JPHMP%20-%20using%20civic%20service%20design%20to%20redevelop%20a%20data%20comms%20website%20with%20a%20health%20literacy%20lens.pdf)
+- [Built by epidemiologists for epidemiologists: an internal COVID-19 dashboard for real-time situational awareness in New York City](https://academic.oup.com/jamiaopen/article-abstract/5/2/ooac029/6582583) (2022) - [PDF](https://www.matthewmontesano.com/pubs/JAMIA%20-%20built%20by%20epidemiologists%20for%20epidemiologists.pdf)
+- [Successful, easy to access online publication of COVID-19 data during the pandemic, New York City](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2021.306446) (2020) - [PDF](https://www.matthewmontesano.com/pubs/AJPH%20-%20successful%20online%20publication%20of%20COVID-19%20data,%20NYC.pdf)
