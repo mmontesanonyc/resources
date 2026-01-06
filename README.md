@@ -4,10 +4,20 @@ In my work in *data communication*, I find the following resources helpful. Feel
 ## Writing
 - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/). This is a helpful and hierarchical list of guidelines that really helps move beyond "I know it when I see it" and systematize plain language writing. Notably on this site, [Scientists need plain language](https://www.plainlanguage.gov/resources/articles/scientists-need-plain-language/), a great overview of why plain language benefits communication products among the highly-educated. And, [Use Simple Phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/) is a great list of problem words.
 - [America's Health Literacy](https://www.ahrq.gov/sites/default/files/wysiwyg/health-literacy/dhhs-2008-issue-brief.pdf). Research and data from HHS.
-- [George Orwell's 6 rules for writing](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/), from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, ```Break any of these rules sooner than say anything outright barbarous``` is a helpful reminder that consistency should be a tool not a prison. 
 - [Race to Justice Language Guide](https://www1.nyc.gov/assets/doh/downloads/pdf/dpho/race-to-justice-action-kit-language-use-guide.pdf).
 - [Evelina Judeikyte's The Plot newsletter](https://plotting.substack.com/) is one of the better sets of writing about data storytelling that I've found.
-- [USCIS's plain language videos](https://www.uscis.gov/about-us/uscis-plain-language) are great. Funny, brief, and informative videos on specific plain language techniques. Check out [Put your main message first](https://www.youtube.com/watch?v=G-SNW6ye9rU) and [Active voice](https://www.youtube.com/watch?v=Fs78WBOgxs0). 
+- [USCIS's plain language videos](https://www.uscis.gov/about-us/uscis-plain-language) are great. Funny, brief, and informative videos on specific plain language techniques. Check out [Put your main message first](https://www.youtube.com/watch?v=G-SNW6ye9rU) and [Active voice](https://www.youtube.com/watch?v=Fs78WBOgxs0).
+
+- George Orwell's 6 rules for writing, from [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/). In particular, #6 is a helpful reminder that consistency should be a tool not a prison. 
+
+```
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
+```
 
 ## Visualization Tools
 There are a lot of visualization platforms but these are the ones I use most often. 
