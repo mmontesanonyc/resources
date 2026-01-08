@@ -54,7 +54,8 @@ Additionally:
 - [json formatter](https://jsonformatter.org/) does what it says on the tin.
 - [NYC Geography Files](https://github.com/nycehs/NYC_geography).
 
-## Design
+## Color
+- [Great color picker](https://obumbratta.com/colour) for data vis and design. 
 - [Datawrapper: how to pick more beautiful colors for your visualization](https://blog.datawrapper.de/beautifulcolors/). Accessible theory, practical guidance, and good resources.
 - [Palleton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF). Interactive pallet tool
 - [Coolers.co](https://coolors.co/). Color pallet generator.
@@ -62,6 +63,8 @@ Additionally:
 - [Colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Classic map-focused pallet generator.
 - [Color-Hex](www.color-hex.com). Useful reference.
 - [Adobe Color Palette generator](https://color.adobe.com/create/color-wheel). 
+
+## Design
 - [Wireframe.cc](https://wireframe.cc/). Easy, in-browser wireframing tool. 
 - Gestalt Principles: there are lots and lots of resources around the internet on these. None are as perfect as I wish they were, so [here's the Wikipedia article](https://en.wikipedia.org/wiki/Gestalt_psychology).
 
