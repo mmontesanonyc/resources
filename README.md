@@ -95,6 +95,7 @@ Additionally:
 - [Regis Philibert's blog](https://www.regisphilibert.com/blog/) helps shed light on how Hugo works. 
 - [GridEd(itor)](https://nickstrayer.me/grided). A handy little grid code generator.
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/#toc). I haven't dug deeply into this but from scanning it, the fact that it's written for the 'lay programmer' is appealing.
+- [PDF2PLOT](https://adamkucharski.github.io/pdf2plot/) - extracts data from a PDF chart. 
 
 ## Published papers
 - [Communicating public health data clearly: lessons from COVID-19](https://www.tandfonline.com/eprint/PUDEIEK8SMY9K5YNGI4U/full?target=10.1080/17538068.2025.2483599) (2025) - [PDF](https://www.matthewmontesano.com/pubs/Communicating%20public%20health%20data%20clearly%20%20lessons%20from%20COVID-19.pdf)
